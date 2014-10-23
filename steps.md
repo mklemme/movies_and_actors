@@ -1,1 +1,3 @@
 - npm init
+- npm install --save express pg sequelize sequelize-cli
+- add node_modules/ to .gitignore
