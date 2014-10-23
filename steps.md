@@ -3,3 +3,4 @@
 - add node_modules/ to .gitignore
 - sqlize init
 - modify config.json to use postgres
+- sqlize model:create --name Actor --attributes name:string
