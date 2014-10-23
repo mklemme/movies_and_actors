@@ -2,3 +2,4 @@
 - npm install --save express pg sequelize sequelize-cli
 - add node_modules/ to .gitignore
 - sqlize init
+- modify config.json to use postgres
