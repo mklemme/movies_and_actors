@@ -4,3 +4,4 @@
 - sqlize init
 - modify config.json to use postgres
 - sqlize model:create --name Actor --attributes name:string
+- sqlize model:create --name Movie --attributes title:string
