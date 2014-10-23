@@ -10,3 +10,8 @@ Here's a log of the steps I took:
 - modify config.json to use postgres
 - sqlize model:create --name Actor --attributes name:string
 - sqlize model:create --name Movie --attributes title:string
+
+
+#### Start from forked repo
+- createdb movies_and_actors_dev
+- sqlize db:migrate
